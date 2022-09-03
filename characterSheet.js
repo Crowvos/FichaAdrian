@@ -1,6 +1,6 @@
 const data = {
   name: 'Adrian Mancini',
-  player: 'Enzo',
+  player: 'Nicholas',
   occupation: 'Esgrimista',
   age: 27,
   sex: 'male',
