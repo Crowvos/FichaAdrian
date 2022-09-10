@@ -68,7 +68,7 @@ const data = {
     },
     {
       type: 'Briga',
-      amount: 13,
+      amount: 17,
     },
     {
       type: 'Tiro',
