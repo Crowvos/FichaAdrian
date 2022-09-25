@@ -32,6 +32,17 @@ const data = {
       defect: 1,
       area: 'Alvo',
     },
+    {
+      name: 'Foice do Caos (Luca)',
+      type: 'Briga',
+      damage: '1d8+2',
+      numCurrent: '-',
+      numMax: '-',
+      attack: '2',
+      reach: '1m',
+      defect: 1,
+      area: 'Alvo',
+    },
   ],
   attributes: [
     {
